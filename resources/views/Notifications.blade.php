@@ -17,7 +17,7 @@
         // Pusher.logToConsole = true;
 
         // Initialize Pusher with your app key and cluster
-        const pusher = new Pusher('0fd9f6d6a388bb31a3ee', { // Replace with your Pusher App Key
+        const pusher = new Pusher('Replace with your Pusher App Key', { // Replace with your Pusher App Key
             cluster: 'ap2', // Replace with your Pusher cluster
             encrypted: true
         });
