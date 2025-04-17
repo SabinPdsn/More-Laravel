@@ -7,7 +7,7 @@
     <title>Welcome</title>
 </head>
 <body>
-    <h1>Hello {{$UserName }}! </h1>
+    <h1>Hello {{$UserName}}! </h1>
     <p>Thank You For Registering With Us.We Are Excited To Have You Onboard!</p>
 </body>
 </html>
